@@ -5,7 +5,7 @@ Using ESP32 as central Hub, it integrated four key subsystems:
 1. Water Quality Monitoring and Control
 2. Automated Feeding System
 3. Lighting Control System
-4. Filteration and Cleaning System
+4. Filtration and Cleaning System
 5. Data Logging and Monitoring
 
 
