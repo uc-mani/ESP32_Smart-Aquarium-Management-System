@@ -9,6 +9,12 @@ Using ESP32 as central Hub, it integrated four key subsystems:
 5. Data Logging and Monitoring
 
 
+
+![image](https://github.com/user-attachments/assets/778dc588-c231-40bd-a855-6c6f7068c5d0)
+
+
+
+
 ![WhatsApp Image 2025-01-13 at 8 10 12 PM](https://github.com/user-attachments/assets/6cd6b264-8d50-4bce-b18b-73d742a9e335)
 
 
